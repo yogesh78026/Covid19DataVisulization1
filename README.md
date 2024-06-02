@@ -1,6 +1,6 @@
 # 
-Covid-19 Data Visualizations | Tableau Desktop
-Overview
+Covid-19 Data Visualizations | Tableau Desktop  
+Overview  
 The Covid-19 Data Visualizations project is designed to provide a comprehensive and interactive analysis of Covid-19 cases in India. Using Tableau Desktop, I developed an attractive and informative dashboard that allows users to explore the data through various types of visualizations, including bar graphs, donut charts, and line charts. This project showcases my ability to handle data visualization tools and present complex data in an accessible and visually appealing manner.  
 
 Key Features
